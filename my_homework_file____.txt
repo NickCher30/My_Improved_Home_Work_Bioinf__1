@@ -26,3 +26,62 @@ no longer empty____
         └── current -> 29619
 
 19 directories, 5 files
+    1  mkdir -p ~/homework/homework1/
+    2  cd ~/homework/homework1/
+    3  touch my_empty_file.txt
+    4  echo "no longer empty" > my_empty_file.txt
+    5  mv my_empty_file.txt my_homework_file.txt
+    6  cp ~/homework/homework1/my_homework_file.txt ~/homework/
+    7  rm ~/homework/my_homework_file.txt
+    8  tree ~ >> ~/homework/homework1/my_homework_file.txt
+    9  history >> ~/homework/homework1/my_homework_file.txt
+   10  cat ~/homework/homework1/my_homework_file.txt
+   11  mkdir -p ~/homework__/homework1__/
+   12  cd ~/homework__/homework1__/
+   13  touch my_empty_file__.txt
+   14  echo "no longer empty" > my_empty_file__.txt
+   15  mv my_empty_file__.txt my_homework_file__.txt
+   16  cp my_homework_file.txt ~/homework__/
+   17  cp my_homework_file__.txt ~/homework__/
+   18  rm ~/homework__/my_homework_file__.txt
+   19  tree ~ >> my_homework_file__.txt
+   20  cd ~
+   21  git clone https://github.com/NickCher30/BioInf__1__HW__NC.git
+   22  mkdir -p ~/homework__/homework1__/
+   23  cd ~/homework__/homework1__/
+   24  touch my_empty_file__.txt
+   25  echo "no longer empty__" > my_empty_file__.txt
+   26  mv my_empty_file__.txt my_homework_file__.txt
+   27  cp my_homework_file__.txt ~/homework__/
+   28  rm ~/homework__/my_homework_file__.txt
+   29  tree ~ >> my_homework_file__.txt
+   30  git clone https://github.com/NickCher30/My_improved_HW_1_Bioinf.git
+   31  cd My_improved_HW_1_Bioinf/
+   32  cp ~/homework/homework1/my_homework_file__.txt .
+   33  cp ~/homework__/homework1__/my_homework_file__.txt .
+   34  git add my_homework_file__.txt
+   35  git commit -m "Добавил файл my_homework_file__.txt"
+   36  git push
+   37  history >> my_homework_file__.txt
+   38  git push
+   39  history >> my_homework_file__.txt
+   40  mkdir -p ~/homework____/homework1____/
+   41  cd ~/homework____/homework1____/
+   42  touch my_empty_file____.txt
+   43  echo "no longer empty____" > my_empty_file____.txt
+   44  mv my_empty_file____.txt my_homework_file____.txt
+   45  cp my_homework_file____.txt ~/homework____/
+   46  rm ~/homework____/my_homework_file____.txt
+   47  tree ~ >> my_homework_file____.txt
+   48  git clone https://github.com/NickCher30/My_Improved_Home_Work_Bioinf__1.git
+   49  cd My_Improved_Home_Work_Bioinf__1/
+   50  cp ~/homework____/homework1____/my_homework_file____.txt .
+   51  git add my_homework_file__.txt
+   52  git add my_homework_file____.txt
+   53  git commit -m "Добавили файл my_homework_file____.txt"
+   54  git push
+   55  history >> my_homework_file__.txt
+   56  cd ~/My_Improved_Home_Work_Bioinf__1
+   57  git add my_homework_file____.txt
+   58  git commit -m "Add command history to my_homework_file____.txt"
+   59  history >> my_homework_file____.txt
