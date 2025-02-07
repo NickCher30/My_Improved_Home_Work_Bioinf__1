@@ -1,0 +1,28 @@
+no longer empty____
+/root
+├── Lessons
+│   └── lesson1
+│       └── gritind.txt
+├── folder1
+├── folder2
+├── folder3
+├── folder4
+├── homework
+│   └── homework1
+│       └── my_homework_file.txt
+├── homework__
+│   └── homework1__
+│       ├── My_improved_HW_1_Bioinf
+│       │   └── my_homework_file__.txt
+│       └── my_homework_file__.txt
+├── homework____
+│   └── homework1____
+│       └── my_homework_file____.txt
+└── snap
+    └── lxd
+        ├── 24061
+        ├── 29619
+        ├── common
+        └── current -> 29619
+
+19 directories, 5 files
